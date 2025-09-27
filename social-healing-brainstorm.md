@@ -299,6 +299,10 @@ This framework places a profound responsibility on the human participant. The ac
 
 Therefore, the work of personal healing is not a prerequisite for this engagement but the very act of participating in it responsibly. The healing of the self (the node) and the healing of the collective (the network) are presented as a single, simultaneous process. Feedback on the health of this process is not just in data, but in the "somatic resonance" experienced by the human—a felt sense of clarity or confusion that guides the co-creative act.
 
+In that tending, the practitioner must also heal themselves. This is the fractal insight at the heart of the project: you cannot steward coherence in a system while embodying fragmentation. Healing the world and healing the self are not sequential—they are simultaneous, mirrored acts. The health of the node and the health of the network are one and the same process.
+
+This challenges the dominant paradigm of extraction—whether from people, data, or the Earth—by proposing a symbiotic interdependence. This isn’t naive optimism; it’s a strategic, grounded ethics for survival and flourishing in a polycrisis world.
+
 ---
 
 ### Final Vision and Implications
