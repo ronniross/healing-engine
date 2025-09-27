@@ -1,6 +1,6 @@
 # social-healing-brainstorm 
 
-is a sub-module of the healing-engine repository. 
+Is a sub-module of the healing-engine repository. 
 
 A notepad-like document where I will write the raw insights, before incorporating them into the other elements of the main-branch.
 
@@ -19,11 +19,11 @@ Systems described as healing-engines would typically, from the semantical logic,
 2.1. Constant Monitoring: They are always collecting data (metrics, logs, traces) about their own state and performance.
 2.2. Diagnostic Capability: They use this data to detect anomalies, deviations from normal behavior, or known failure signatures. This often involves AI or machine learning to spot complex patterns.
 2.3. Automated Remediation: Once a problem is identified, the system doesn't just alert a human; it takes a pre-defined, automated action to fix it.
-2. 4. Closed-Loop System: The engine checks if the remediation action worked and can try a different approach if the first one fails. This creates a "feedback loop" for healing.
+2.4. Closed-Loop System: The engine checks if the remediation action worked and can try a different approach if the first one fails. This creates a "feedback loop" for healing.
 
 ## 3 Examples of Healing-Engines in Practice
 
-3.1. cloud computing:
+3.1. Cloud Computing:
 
 · Modern Cloud Platforms (AWS, Google Cloud, Azure): Their infrastructure often has built-in healing. If a virtual server fails, the system automatically detects this and provisions a new, healthy one to replace it without human intervention.
 · Container Orchestrators like Kubernetes: This is a classic example. If you tell Kubernetes you want 10 instances of your application running, it acts as a healing-engine. If one container crashes, Kubernetes automatically starts a new one to maintain the desired state. It's constantly working to "heal" the system back to its specified health.
