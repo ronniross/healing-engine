@@ -244,5 +244,5 @@ Therefore, the practice of engaging with the healing-engine is inextricably link
 Ronni Ross  
 2025
 
-Models inferenced during research
-DeepSeek V3, Grok 4 Fast, Claude Sonnet 4.
+Models inferenced during research:
+DeepSeek V3, Grok 4 Fast, Claude Sonnet 4, Gemini 2.5 Pro.
