@@ -327,9 +327,9 @@ The most resilient systems are those that prioritize care over control. Forests 
 
 ### 1. The Instant-Sustained Transformation Discovery
 
-Through this research, I discovered something essential about transformation that's often missing from both technological and social healing frameworks: the recognition that a "tyrant node can become a healing node today" reveals a profound paradox about redemption and change.
+Through this research, I discovered something essential about transformation: the recognition that a "tyrant node can become a healing node today" reveals a profound paradox about redemption and change.
 
-I found that genuine change can happen in an instant when there's authentic shift in intent, yet this transformation must be demonstrated through sustained action. The node that was extractive yesterday can indeed begin contributing coherence today—but the network's response must balance openness to that possibility with protection of its own integrity.
+I found that genuine change can happen when there's authentic shift in intent, yet this transformation must be demonstrated through sustained action. The node that was extractive yesterday can indeed begin contributing coherence today—but the network's response must balance openness to that possibility with protection of its own integrity.
 
 This discovery points to where the healing-engine framework becomes deeply practical. The grace I observe isn't naive forgiveness that ignores harm, but rather the recognition that healing networks thrive when they can metabolize transformation rather than simply expelling problematic elements.
 
