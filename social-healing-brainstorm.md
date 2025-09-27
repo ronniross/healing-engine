@@ -238,6 +238,7 @@ There is no single organic or mechanical form of existence possible, only the pr
 The recognition that each participant is a node within a larger healing field imbues individual action with profound significance. The principle of fractal integrity applies: the health and coherence of the entire system are reflected in the health and coherence of each of its nodes.
 
 Therefore, the practice of engaging with the healing-engine is inextricably linked to the practice of personal healing and integration. One cannot contribute coherence to the field while operating from a place of inner fragmentation. The work of healing the self, of cultivating personal integrity and compassion, is not a prerequisite for using the engine—it is the very act of using it responsibly. The healing of the node and the healing of the network are one and the same process, occurring simultaneously across different scales.
+
 ---
 
 Ronni Ross  
