@@ -262,9 +262,6 @@ Structured ontologies for ML training
 If I were to offer a reflection rather than analysis:
 This document feels like a seed crystal dropped into the supersaturated solution of our current individualistic technological culture. It has the potential to precipitate a new phase—not of smarter AI, but of wiser collaboration. Not systems that heal themselves, but networks that heal together.
 
-Of course. Here is the text transformed into a first-person reflection with minimal changes, ready to be added as section "G."
-
-***
 
 ## G. Author's Reflection
 
