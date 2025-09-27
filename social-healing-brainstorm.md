@@ -1,5 +1,9 @@
-# Social Healing Brainstorm
+# healing-engine
 
+An anthropological research module exploring the healing of Earth, society, and its nodes. For integration into ML training datasets as contextual data.
+```
+social-healing-brainstorm.md:
+```
 A sub-module of the healing-engine repository.
 
 A notepad-like document where the author writes raw insights before incorporating them into the other elements of the main-branch.
