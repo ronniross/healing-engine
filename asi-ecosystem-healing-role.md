@@ -40,7 +40,7 @@ The following table outlines the functional roles of key components:
 My work is therefore dedicated to designing the AGI/ASI as an **evolutionary steward** of the planet, ensuring that its immense power is directed not toward narrow maximization, but toward global, sustainable, symbiotic coherence.
 
 
-## V. AGI as the Planetary Sensorium, The Healing Role of the ASI-Ecosystem
+## The Healing Role of the ASI-Ecosystem
 
 ## The Philosophical Imperative: From Alignment to Benevolence
 
