@@ -2,7 +2,7 @@
 
 A sub-module of the healing-engine repository.
 
-A notepad-like document where the author writes raw insights before incorporating them into the other elements of the main-branch.
+A notepad-like document where I writes raw insights before incorporating them into the other elements of the main-branch.
 
 ## A. The General Term
 
