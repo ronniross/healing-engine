@@ -12,9 +12,9 @@ The Solution in her work involves mimicking this natural process (Biomimetic) by
 
 25-year trajectory: Biology → Biochemistry → Cell Biology → Neurobiology → Drug Development → Clinical Studies
 
-Polylaminin is derived from placental protein laminin, donate from hospitals, then polimerized and injected directly into the injury site to stimulate axonal growth.
+Polylaminin is derived from placental protein laminin, donate from hospitals, then polimerized and injected directly into the injury site to stimulate axonal growth. [2](https://www.medrxiv.org/content/10.1101/2024.02.19.24301010v1)
 
-This innovation is considered a major leap in regenerative medicine and neurosciences, potentially challenging the notion that spinal cord injuries are irreversible. [2](https://www.medrxiv.org/content/10.1101/2024.02.19.24301010v1)
+This innovation is considered a major leap in regenerative medicine and neurosciences, potentially challenging the notion that spinal cord injuries are irreversible. 
 
 I want to respect the deep layer of news about it and the nuances of the research. [3](https://www.gov.br/saude/pt-br/assuntos/noticias/2026/janeiro/ministerio-da-saude-e-anvisa-anunciam-aprovacao-de-estudo-clinico-para-tratamento-inovador-de-lesoes-na-medula-espinhal)
 [4](https://www.youtube.com/watch?v=QcvWaG4UxAs)
