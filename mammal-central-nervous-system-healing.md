@@ -37,6 +37,19 @@ I want to respect the deep layer of news about it and the nuances of the researc
 [21](https://ndmais.com.br/saude/polilaminina-anvisa-autoriza-estudo-que-pode-devolver-movimentos-a-pacientes-com-lesao-medular/)
 [22](https://diariodocomercio.com.br/mix/brasileira-descobre-a-cura-para-doenca-irreversivel-e-deve-ganhar-o-nobel-de-medicina/)
 [23](https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/01/first-stage-of-testing-for-a-drug-targeting-complete-spinal-cord-injury-is-approved-in-brazil.shtml)
+[24](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096020)
+[25](https://scholar.google.com/scholar?q=Tatiana+Coelho-Sampaio)
+[26](https://www.jbc.org/article/S0021-9258(20)79315-4/fulltext)
+[27](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.10-157628)
+[28](https://www.jbc.org/article/S0021-9258(18)31184-0/fulltext)
+[29](https://www.sciencedirect.com/science/article/abs/pii/S0171933598800617)
+[30](https://www.sciencedirect.com/science/article/abs/pii/S1357272503003479)
+[31](https://www.nature.com/articles/s41598-020-76290-0)
+[32](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.10-157628)
+[33](https://www.jneurosci.org/content/38/16/3880.short)
+[34](https://onlinelibrary.wiley.com/doi/full/10.1155/2017/3053759)
+[35](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096020)
+[36](https://journals.biologists.com/jcs/article-abstract/115/24/4867/26913/Structure-of-laminin-substrate-modulates-cellular)
 
 ---
 Ronni Ross
