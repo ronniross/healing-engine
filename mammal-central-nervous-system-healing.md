@@ -15,6 +15,30 @@ Polylaminin is derived from placental protein laminin, donate from hospitals, th
 
 This innovation is considered a major leap in regenerative medicine and neurosciences, potentially challenging the notion that spinal cord injuries are irreversible. [2](https://www.medrxiv.org/content/10.1101/2024.02.19.24301010v1)
 
+I want to respect the deep layer of news about it and the nuances of the research.
+
+https://www.gov.br/saude/pt-br/assuntos/noticias/2026/janeiro/ministerio-da-saude-e-anvisa-anunciam-aprovacao-de-estudo-clinico-para-tratamento-inovador-de-lesoes-na-medula-espinhal
+https://www.youtube.com/watch?v=QcvWaG4UxAs
+https://www.youtube.com/watch?v=gzfkX4zRkp4
+https://www.youtube.com/watch?v=bo2ytuF2SJ0
+https://saude.es.gov.br/Not%C3%ADcia/sesa-acompanha-casos-de-uso-judicial-da-polilaminina-e-institui-grupo-tecnico-para-avaliar-terapias-inovadoras
+https://www1.folha.uol.com.br/equilibrioesaude/2026/01/jovem-de-ms-com-lesao-medular-fora-do-limite-de-pesquisa-recebe-polilamina-e-diz-estar-reagindo.shtml
+https://panoramafarmaceutico.com.br/anvisa-aprova-testes-da-polilaminina/
+https://ensaiosclinicos.gov.br/news/331
+https://www.sonoticiaboa.com.br/2026/01/20/idoso-de-70-anos-recebe-dose-da-polilaminina-lesao-na-medula-apos-cair-do-telhado
+https://www.poder360.com.br/poder-saude/anvisa-autoriza-teste-de-polilaminina-em-pacientes-com-lesao-medular/
+https://www1.folha.uol.com.br/equilibrioesaude/2025/12/justica-manda-aplicar-polilaminina-em-4-pessoas-que-tiveram-lesao-medular-recentemente.shtml
+https://g1.globo.com/saude/noticia/2026/01/05/anvisa-autoriza-estudo-com-polilaminina-e-cinco-pessoas-vao-receber-a-substancia.ghtml
+https://noticias.r7.com/sao-paulo/nutricionista-que-sofreu-lesao-na-coluna-em-mergulho-volta-a-mexer-o-braco-apos-receber-polilaminina-28012026/
+https://www.tnh1.com.br/noticia/nid/influencer-que-sofreu-lesao-na-coluna-apos-mergulho-recebe-polilaminina-e-volta-a-mexer-braco/
+https://www.sonoticiaboa.com.br/2026/01/28/polilaminina-mais-2-pacientes-voltam-mexer-tratamento-brasileiro
+https://oglobo.globo.com/saude/noticia/2026/01/28/influenciadora-com-lesao-na-coluna-volta-a-mexer-braco-apos-receber-polilaminina-no-einstein-em-sp-entenda-como-funciona-a-substancia.ghtml
+https://sbtnews.sbt.com.br/noticia/saude/justica-autoriza-uso-de-medicamento-experimental-em-pacientes-com-lesao-na-medula-espinhal
+https://www.sonoticiaboa.com.br/2026/01/31/jovem-tetraplegico-5o-paciente-mexer-tratamento-polilaminina
+https://ndmais.com.br/saude/polilaminina-anvisa-autoriza-estudo-que-pode-devolver-movimentos-a-pacientes-com-lesao-medular/
+https://diariodocomercio.com.br/mix/brasileira-descobre-a-cura-para-doenca-irreversivel-e-deve-ganhar-o-nobel-de-medicina/
+https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/01/first-stage-of-testing-for-a-drug-targeting-complete-spinal-cord-injury-is-approved-in-brazil.shtml
+
 ---
 Ronni Ross
 2026
