@@ -5,7 +5,7 @@ Created to study and honor the contributions of the brazilian scientist Tatiana 
 
 In a spinal cord injury, the cells of the central nervous system lose their natural capacity to produce the necessary environment for regeneration.
 
-Peripheral nerves (outside the spine and brain) do have the capacity to regenerate. They form "tunnels" or "tubes" stuffed with laminin, and axons grow inside them.
+Peripheral nerves (outside the spine and brain) do have the capacity to regenerate. They form "tunnels" or "tubes" stuffed with laminin, and axons grow inside them. [1](https://www.youtube.com/watch?v=BJ1_qofIAB8)
 
 The Solution in her work involves mimicking this natural process (Biomimetic) by using Polylaminin to form conduits where the axon can grow, effectively bridging the gap in spinal injuries.
 
