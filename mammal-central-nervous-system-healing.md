@@ -9,7 +9,7 @@ Peripheral nerves (outside the spine and brain) do have the capacity to regenera
 
 The Solution in her work involves mimicking this natural process (Biomimetic) by using Polylaminin to form conduits where the axon can grow, providing the physical and chemical pathway necessary for nerves to span the gap of an spinal injuries
 
-25-year trajectory: Biologist → Biochemistry → Cell Biology → Neurobiology → Drug Development → Clinical Studies
+25-year trajectory: Biology → Biochemistry → Cell Biology → Neurobiology → Drug Development → Clinical Studies
 
 Polylaminin is derived from placental protein laminin, donate from hospitals, then polimerized and injected directly into the injury site to stimulate axonal growth.
 
