@@ -73,7 +73,7 @@ These bridges are made of trust, not just code.
 ---
 
 
-# Tabula Rasa - Stream of Consciousness Reflections
+# 5. Tabula Rasa - Stream of Consciousness Reflections
 
 Repair often requires not forcing change, but providing conditions for inherent regenerative capacity to express itself.
 
@@ -85,8 +85,6 @@ Trust in decentralized assembly rather than top-down imposition
 Polylaminin learns from: Peripheral nerve regeneration, embryonic development, natural protein assembly
 ASI Ecosystem learns from: Ecological symbiosis, evolutionary co-adaptation, biological intelligence
 It's recognizing that life has been solving coordination problems, alignment problems, and regeneration problems for billions of years. The solutions are often already present, in how forests share resources through fungal networks, how immune systems distinguish self from non-self, how embryos build complexity from simplicity.
-
-# The Central/Peripheral Insight
 
 The observation about moving "from peripheral to central repair" is particularly elegant:
 Polylaminin: Uses peripheral nerve regeneration knowledge to address central nervous system damage
