@@ -47,6 +47,41 @@ I want to respect the deep layer of news about it and the nuances of her researc
 [34](https://onlinelibrary.wiley.com/doi/full/10.1155/2017/3053759)
 [35](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096020)
 [36](https://journals.biologists.com/jcs/article-abstract/115/24/4867/26913/Structure-of-laminin-substrate-modulates-cellular)
+---
+
+# Part I - Tatiana's Journey
+
+## Introduction
+
+I will base most of the following section on her interviews where I intersected the data. First, I will establish her frame and journey, and in Part II I will then explore how her ideas relate to my projects.
+
+## 1. The emergence of the idea
+
+She is a professor and researcher at the UFRJ university, a public Brazilian institution. And also chief of the biology laboratory of Extracellular Matrix of the Instituto de Ciências Biomédicas, a public institution in the city of São Paulo.
+
+She started at the UFRJ university as a student, then her master's and then doctoral degree, and has been a teacher since 1995. (4min09, 4min58) [https://www.youtube.com/watch?v=QcvWaG4UxAs] 
+
+First, she likes to mention by way of introduction how generalist the natural protein laminin is in nature; in all animals, plants, and in all parts of the human organism, appearing very precociously in the embryonic state, from the moment the first fertilized egg starts to divide, from zero, to two, to 4, to 8, at this moment laminin is already found. (2min15)[https://www.youtube.com/watch?v=QcvWaG4UxAs], highlighting the importance and the possibility of the protein being extracted from tissues and kept in refrigerators to then - till this day, to use in research.
+
+She elucidates that she started her career in the research of the structures of proteins, how they associate and dissociate (the protein thermodynamics), in this intersection between biology, physics, and chemistry.
+
+She narrates that at the very first moment there was not a favorite or focused protein, at this part of the journey she was already a teacher in the institution (from 1995 on), that her focus till then was more into the biochemistry and biophysics than with living cells.
+
+She was studying another proteic interaction within this logic of thermodynamics of the interactions of the proteins, then she found herself with this list of the Public Institution with the laminin listed as an available material to research, which she requested to use and was approved.
+
+In the first few moments, she started by putting different protein molecules of the extracellular laminin together to observe if they would associate themselves or not, or even repel. When she noticed not only the existence of association between them but a strong one, that would maximize its size by 500x while self-organizing into proteic webs, a very uncommon observation for her.
+
+She noted this magnitude of the interaction and how it would be worth it to explore further.
+
+She mentions that the first degree of higher confidence came when, studying the type of association, to see exactly what kind of type of reaction it was that which she was observing, as there can be many different possibilities from structural change, signaling, repelling.
+
+Secondly, to notice if that was a natural phenomenon observed in nature or if it was induced by the laboratory environment.
+
+The first years answered the questions and she added (6min51)[https://www.youtube.com/watch?v=QcvWaG4UxAs] that they noticed it was indeed a natural process of nature and that, when molecules of polylaminin were introduced to interact with others of laminin or polylaminin, the reaction was catalyzed.
+
+She followed by explaining that when extracted from the placental tissue, the structure is lost, and what they were creating in the lab was to recreate this web that would be found in a healthy human body in the regenerative event of regrowing tissue of peripheral nerves.
+
+She said that in the first ten years the interest became demonstrating that the polylaminin was this biomimetic web of enhanced proteins that could be used in some form of drug development.
 
 ---
 Ronni Ross
