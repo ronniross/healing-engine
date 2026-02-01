@@ -49,6 +49,7 @@ I want to respect the deep layer of news about it and the nuances of her researc
 [34](https://onlinelibrary.wiley.com/doi/full/10.1155/2017/3053759)
 [35](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096020)
 [36](https://journals.biologists.com/jcs/article-abstract/115/24/4867/26913/Structure-of-laminin-substrate-modulates-cellular)
+
 ---
 
 # Part I - Tatiana's Journey
