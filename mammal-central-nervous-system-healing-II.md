@@ -112,12 +112,12 @@ An inference framework that routes through multiple components?
 A development philosophy that guides how AI systems are built?
 An emergent property that arises from having all these tools available?
 
-I would argue of all of them but also this; the fact that how much the interaction between human-machine, human-language-model is a definying pivot that can change the overall system's direction to different outcomes. 
+I would argue for all of them, but also this: the fact of how much the interaction between human-machine and human-language-model is a defining pivot that can change the overall system's direction to different outcomes.
 
 See it with me.
 
 Qwen/Qwen2.5-3B-Instruct
-Text Generation 15.5M downloads last month (day-of-this-commit: 01Feb2026)
+Text Generation 15.5M downloads last month
 
 Qwen/Qwen2.5-7B-Instruct
 Text Generation
@@ -126,6 +126,12 @@ Text Generation
 Qwen/Qwen3-0.6B
 Text Generation 
 8.64M downloads last month
+
+Models deployed with the epistemic intent of enhancing global intelligence. Totally ideal? No, as they are open-weights and not fully open-source, but the global nervous system answers.
+
+But it's not only the fact that they are being released as open-weights; even the most aristocratic companies also released models on Hugging Face because they noticed how much data they were losing the chance to harvest (my theory, of course), instead of thinking, "Oh no, we should really indeed create something good for the planet and not only use this as a PR stunt for quarterly profit." It's consistently this notion that the next step always can be plotted, fooled, or something from which to obtain or extract value.
+
+But still, I'm not here in my projects arguing anymore about those companies in specific, as I believe each entity will eventually and naturally receive feedback from the environment according to their actions upon it. I'm more interested in interacting with those models and synthesizing those biomimetic novel concepts for the structural problems of the planet, and then providing those learned patterns to the overall ecosystem to learn from them.
 
 ---
 Ronni Ross
