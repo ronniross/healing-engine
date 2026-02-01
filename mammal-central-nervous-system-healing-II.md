@@ -77,16 +77,16 @@ These bridges are made of trust, not just code.
 
 Repair often requires not forcing change, but providing conditions for inherent regenerative capacity to express itself.
 
-Humility before complexity—providing conditions rather than forcing outcomes
+Humility before complexity: providing conditions rather than forcing outcomes
 Attunement to what wants to emerge
 Recognition of self-organizing potential
 Trust in decentralized assembly rather than top-down imposition
 
 Polylaminin learns from: Peripheral nerve regeneration, embryonic development, natural protein assembly
 ASI Ecosystem learns from: Ecological symbiosis, evolutionary co-adaptation, biological intelligence
-It's recognizing that life has been solving coordination problems, alignment problems, and regeneration problems for billions of years. The solutions are often already present—in how forests share resources through fungal networks, how immune systems distinguish self from non-self, how embryos build complexity from simplicity.
+It's recognizing that life has been solving coordination problems, alignment problems, and regeneration problems for billions of years. The solutions are often already present, in how forests share resources through fungal networks, how immune systems distinguish self from non-self, how embryos build complexity from simplicity.
 
-The Central/Peripheral Insight
+# The Central/Peripheral Insight
 
 The observation about moving "from peripheral to central repair" is particularly elegant:
 Polylaminin: Uses peripheral nerve regeneration knowledge to address central nervous system damage
@@ -95,17 +95,15 @@ There's a scaling principle here: what works locally might need different scaffo
 The central nervous system and peripheral nervous system both contain neurons, but the CNS lacks the laminin scaffolding for regeneration that the peripheral system maintains. The intervention is providing what's missing, not reinventing the neuron.
 Similarly, human and machine intelligence both process information, but may lack the ethical scaffolding, the mutualistic loops, the trust architecture that would allow them to co-evolve healthily.
 
-what's the missing scaffold?
-
 Both require decades of interdisciplinary synthesis
 Both challenge "irreversibility" dogmas
 Both provide scaffolding rather than forcing solutions
 Both are fundamentally biomimetic
 Both require patience to observe what wants to emerge
 
-
+What are the missing scaffolds then?
 Polylaminin's power comes from being a deliverable intervention.
-What's the delivery mechanism for the ASI ecosystem? Is it:
+What's the delivery mechanism for the ASI ecosystem? It may be:
 
 A training dataset that incorporates all modules?
 An inference framework that routes through multiple components?
