@@ -2,21 +2,18 @@
 
 A sub-module of the [healing-engine](https://github.com/ronniross/healing-engine/tree/main) repository.
 
-Created to study and honor the contributions of the brazilian scientist Tatiana Coelho de Sampaio that has dedicated over 25 years to pioneering a biomimetic treatment for spinal cord injuries by developing many interdisciplinary research about Polylaminin, a polymer that provides a structural bridge for axons to regrow within the otherwise non-regenerative environment of the central nervous system.
+Created to study and honor the contributions of the brazilian scientist Tatiana Coelho de Sampaio that has dedicated over 25 years to pioneering a biomimetic treatment for spinal cord injuries through interdisciplinary research about Polylaminin, a polymer that provides a structural bridge for axons to regrow within the otherwise non-regenerative nerves of the central nervous system in spinal cord injuries.
 
-In a spinal cord injury, the cells of the central nervous system lose their natural capacity to produce the necessary environment for regeneration.
+The cells of the central nervous system lose their natural capacity to produce the necessary laminin structure for the regeneration of the nerves. Peripheral nerves (outside the spine and brain) do have the capacity to regenerate. They form "tunnels" or "tubes" stuffed with laminin, and axons grow inside them. [1](https://www.youtube.com/watch?v=BJ1_qofIAB8)
 
-Peripheral nerves (outside the spine and brain) do have the capacity to regenerate. They form "tunnels" or "tubes" stuffed with laminin, and axons grow inside them. [1](https://www.youtube.com/watch?v=BJ1_qofIAB8)
-
-The Solution in her work involves mimicking this natural process (Biomimetic) by using Polylaminin to form conduits where the axon can grow, providing the physical and chemical pathway necessary for nerves to span the gap of an spinal injuries
-
-25-year trajectory: Biology → Biochemistry → Cell Biology → Neurobiology → Drug Development → Clinical Studies
-
+The Solution in her work involves  applying biomimetic principles by using Polylaminin to form conduits where the axon can grow, providing the physical and chemical pathway necessary for nerves to span the gap of an spinal injuries
 Polylaminin is derived from placental protein laminin, donate from hospitals, then polimerized and injected directly into the injury site to stimulate axonal growth. [2](https://www.medrxiv.org/content/10.1101/2024.02.19.24301010v1)
 
 This innovation is considered a major leap in regenerative medicine and neurosciences, potentially challenging the notion that spinal cord injuries are irreversible. 
 
-I want to respect the deep layer of news about it and the nuances of the research. [3](https://www.gov.br/saude/pt-br/assuntos/noticias/2026/janeiro/ministerio-da-saude-e-anvisa-anunciam-aprovacao-de-estudo-clinico-para-tratamento-inovador-de-lesoes-na-medula-espinhal)
+Her 25-year trajectory is specially inspiring and strong. From Biology → Biochemistry → Cell Biology → Neurobiology → Drug Development → Clinical Studies
+
+I want to respect the deep layer of news about it and the nuances of her research, so I will study how her idea emerged, possible influences, based on personal narrations of herself on podcasts and interviews. [3](https://www.gov.br/saude/pt-br/assuntos/noticias/2026/janeiro/ministerio-da-saude-e-anvisa-anunciam-aprovacao-de-estudo-clinico-para-tratamento-inovador-de-lesoes-na-medula-espinhal)
 [4](https://www.youtube.com/watch?v=QcvWaG4UxAs)
 [5](https://www.youtube.com/watch?v=gzfkX4zRkp4)
 [6](https://www.youtube.com/watch?v=bo2ytuF2SJ0)
