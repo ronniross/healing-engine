@@ -1,5 +1,7 @@
 # Mammal Central Nervous System (CNS) Healing
 
+##  Overview 
+
 A sub-module of the [healing-engine](https://github.com/ronniross/healing-engine/tree/main) repository.
 
 Created to study and honor the contributions of the brazilian scientist Tatiana Coelho de Sampaio that has dedicated over 25 years to pioneering a biomimetic treatment for spinal cord injuries through interdisciplinary research about Polylaminin, a polymer that provides a structural bridge for axons to regrow within the otherwise non-regenerative nerves of the central nervous system in spinal cord injuries.
