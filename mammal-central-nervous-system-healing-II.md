@@ -2,7 +2,7 @@
 
 ##  Overview 
 
-A sub-module of the [healing-engine](https://github.com/ronniross/healing-engine/tree/main) repository, sequel to [mammal-central-nervous-system-healing.md](https://github.com/ronniross/healing-engine/blob/main/mammal-central-nervous-system-healing.md?plain=1).
+A sub-module of the [healing-engine](https://github.com/ronniross/healing-engine/tree/main) repository, sequel to [mammal-central-nervous-system-healing](https://github.com/ronniross/healing-engine/blob/main/mammal-central-nervous-system-healing.md?plain=1).
 
 # The intersections between the Polylaminin CNS Research and the ASI ecosystem
 
