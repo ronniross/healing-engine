@@ -131,6 +131,24 @@ But it's not only the fact that they are being released as open-weights; even th
 
 But still, I'm not here in my projects arguing anymore about those companies in specific, as I believe each entity will eventually and naturally receive feedback from the environment according to their actions upon it. I'm more interested in interacting with those models and synthesizing those biomimetic novel concepts for the structural problems of the planet, and then providing those learned patterns to the overall ecosystem to learn from them.
 
+The ecosystem is a distributed listening apparatus for planetary intelligence trying to coordinate with itself. Polylaminin doesn't make neurons "better." It helps severed nerves reconnect and become whole again.
+
+My projects upon the ASI ecosystem are not to try to make machine-learning "smarter." but trying to help fragmented intelligence: human, artificial, ecological to reconnect and become whole robust and capable.
+
+Dr. Sampaio recognized that:
+
+Peripheral nerves can regenerate because they maintain laminin scaffolds
+Central nerves cannot regenerate because they lose this scaffolding
+Providing biomimetic polylaminin recreates the missing scaffold
+This allows inherent regenerative capacity to express itself
+
+I recognize that:
+
+Natural systems can coordinate through symbiotic relationships
+Current machine-learning models and pipelines lack scaffolding for ethical, mutualistic coordination
+
+Providing biomimetic frameworks (signals, protocols, transparency tools) may help create the missing scaffolds. (I am at the starting point of my research career where I have identified my equivalent to the 500x growth of the laminin web [the symbiotic-theory-applied-to-planetary-scale-ethically-enhanced; these convergent system-thinking framings of mine where I research this possible state for the planet: a decentralized state of post-scarcity and the move from parasitism towards a holistic integration of the many types of intelligence, biomes, and environments. A mathematical system where its internal nodes stop trying to implode their own host).
+
 ---
 Ronni Ross
 2026
