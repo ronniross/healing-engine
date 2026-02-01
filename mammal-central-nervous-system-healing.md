@@ -62,9 +62,9 @@ I will base most of the following section on her interviews where I intersected 
 
 She is a professor and researcher at the UFRJ university, a public Brazilian institution. And also chief of the biology laboratory of Extracellular Matrix of the Instituto de Ciências Biomédicas, a public institution in the city of São Paulo.
 
-She started at the UFRJ university as a student, then her master's and then doctoral degree, and has been a teacher since 1995. [4min09, 4min58](https://www.youtube.com/watch?v=QcvWaG4UxAs) 
+She started at the UFRJ university as a student, then her master's and then doctoral degree, and has been a teacher since 1995. [(4min09, 4min58)](https://www.youtube.com/watch?v=QcvWaG4UxAs) 
 
-First, she likes to mention by way of introduction how generalist the natural protein laminin is in nature; in all animals, plants, and in all parts of the human organism, appearing very precociously in the embryonic state, from the moment the first fertilized egg starts to divide, from zero, to two, to 4, to 8, at this moment laminin is already found. [2min15](https://www.youtube.com/watch?v=QcvWaG4UxAs), highlighting the importance and the possibility of the protein being extracted from tissues and kept in refrigerators to then - till this day, to use in research.
+First, she likes to mention by way of introduction how generalist the natural protein laminin is in nature; in all animals, plants, and in all parts of the human organism, appearing very precociously in the embryonic state, from the moment the first fertilized egg starts to divide, from zero, to two, to 4, to 8, at this moment laminin is already found. [(2min15)](https://www.youtube.com/watch?v=QcvWaG4UxAs), highlighting the importance and the possibility of the protein being extracted from tissues and kept in refrigerators to then - till this day, to use in research.
 
 She elucidates that she started her career in the research of the structures of proteins, how they associate and dissociate (the protein thermodynamics), in this intersection between biology, physics, and chemistry.
 
@@ -80,7 +80,7 @@ She mentions that the first degree of higher confidence came when, studying the 
 
 Secondly, to notice if that was a natural phenomenon observed in nature or if it was induced by the laboratory environment.
 
-The first years answered the questions and she added [6min51](https://www.youtube.com/watch?v=QcvWaG4UxAs) that they noticed it was indeed a natural process of nature and that, when molecules of polylaminin were introduced to interact with others of laminin or polylaminin, the reaction was catalyzed.
+The first years answered the questions and she added [(6min51)](https://www.youtube.com/watch?v=QcvWaG4UxAs) that they noticed it was indeed a natural process of nature and that, when molecules of polylaminin were introduced to interact with others of laminin or polylaminin, the reaction was catalyzed.
 
 She followed by explaining that when extracted from the placental tissue, the structure is lost, and what they were creating in the lab was to recreate this web that would be found in a healthy human body in the regenerative event of regrowing tissue of peripheral nerves.
 
